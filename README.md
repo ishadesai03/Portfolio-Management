@@ -8,6 +8,7 @@ Python Data Analysis: Powerful data processing and visualization tools using Pyt
 Dynamic Portfolio Adjustments: Advanced balancing techniques for real-time optimization of asset allocations.
 Rebalance: Ensures the portfolio remains aligned with the defined investment strategy by periodically adjusting asset proportions.
 Swing: A method designed to optimize asset allocation dynamically in response to market conditions and portfolio performance.
+
 Technologies Used
 Python: For data analysis and automation.
 Pandas: To manage and analyze data.
